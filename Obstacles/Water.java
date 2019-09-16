@@ -1,5 +1,9 @@
 package Obstacles;
 
+/*
+Перемещён. Остался неизменным.
+ */
+
 import Management.*;
 
 public class Water extends Obstacle {

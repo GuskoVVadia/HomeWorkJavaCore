@@ -1,5 +1,10 @@
 package Management;
 
+/*
+Класс остался неизменённым.
+Перемещён в новый пакет.
+ */
+
 public class Animal implements Competitor {
     String type;
     String name;

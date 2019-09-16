@@ -1,5 +1,9 @@
 package Participants;
 
+/*
+Перемещён. Остался неизменным.
+ */
+
 import Management.Animal;
 
 public class Dog extends Animal {

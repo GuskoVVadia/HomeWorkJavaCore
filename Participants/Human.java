@@ -1,5 +1,9 @@
 package Participants;
 
+/*
+Перемещён. Остался неизменным.
+ */
+
 import Management.Competitor;
 
 public class Human implements Competitor {
